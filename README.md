@@ -91,5 +91,5 @@
 
 ### 🌟 Exploring the World of Data & AI
 <p align="center">
-  <img src="https://i.giphy.com/media/V_I5Slrp5k3e3T92aH/giphy.gif" alt="luminous AI brain" width="400"/>
+  <img src="https://i.giphy.com/media/21KWT2S2s8i3u/giphy.gif" alt="connected data mind" width="400"/>
 </p>
