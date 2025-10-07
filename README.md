@@ -91,5 +91,5 @@
 
 ### 🌟 Exploring the World of Data & AI
 <p align="center">
-  <img src="https://i.giphy.com/media/3o7TKSjRrfIPjeI4JG/giphy.gif" alt="financial data analysis" width="400"/>
+  <img src="https://i.giphy.com/media/xT1R9IeT6J9r1wGZ44/giphy.gif" alt="AI brain processing data" width="400"/>
 </p>
