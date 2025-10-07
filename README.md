@@ -91,5 +91,5 @@
 
 ### 🌟 Exploring the World of Data & AI
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeI4JG/giphy.gif" alt="data visualization" width="400"/>
+  <img src="https://i.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="AI data brain" width="400"/>
 </p>
