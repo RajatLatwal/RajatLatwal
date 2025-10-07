@@ -17,7 +17,8 @@
 - 👨‍💻 &nbsp; All of my projects are available on my **[Streamlit Portfolio](https://share.streamlit.io/)**.
 - 💬 &nbsp; Ask me about **Data Analysis, Machine Learning, Generative AI, and Python**.
 - 📫 &nbsp; How to reach me: **rajatlatwal7@gmail.com**
-- 📄 &nbsp; View my professional experience on my **[Resume](https://your-link-to-resume.pdf)**. - ⚡ &nbsp; Fun fact: **I love turning messy data into meaningful stories.**
+- 📄 &nbsp; View my professional experience on my **[Resume](https://your-link-to-resume.pdf)**.
+- ⚡ &nbsp; Fun fact: **I love turning messy data into meaningful stories.**
 
 ---
 
@@ -92,13 +93,8 @@
 
 ---
 
-### 📊 My GitHub Stats
-
+### 🔥 Unleashing Data Insights!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajat-latwal&show_icons=true&locale=en&theme=dark" alt="rajat-latwal" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-latwal&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajat-latwal" />
-</p>
+  </p>
 
 ---
