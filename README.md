@@ -90,6 +90,5 @@
 ---
 
 ### 🌟 Exploring the World of Data & AI
-<p align="center">
-  <img src="https://i.giphy.com/media/21KWT2S2s8i3u/giphy.gif" alt="connected data mind" width="400"/>
-</p>
+
+---
