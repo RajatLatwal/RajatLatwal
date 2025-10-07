@@ -91,5 +91,5 @@
 
 ### 🌟 Exploring the World of Data & AI
 <p align="center">
-  <img src="https://i.giphy.com/media/xT1R9IeT6J9r1wGZ44/giphy.gif" alt="AI brain processing data" width="400"/>
+  <img src="https://i.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="neural network processing" width="400"/>
 </p>
