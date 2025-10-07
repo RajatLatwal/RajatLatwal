@@ -91,5 +91,5 @@
 
 ### 🌟 Exploring the World of Data & AI
 <p align="center">
-  <img src="https://i.giphy.com/media/Dh5q0sShTccxv2WKNK/giphy.gif" alt="coding on screen" width="400"/>
+  https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN2YzViajhzcWs2MGhob3NtcGNta3g4N2pmc200cmxpb3Ztc2hpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif
 </p>
