@@ -49,9 +49,7 @@
   <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="40" height="40"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-latwal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=rajat-latwal&show_icons=true&locale=en" alt="GitHub Stats" />
+<h3 align="center">A glimpse into my coding world:</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="coding gif" width="400"/>
 </p>
