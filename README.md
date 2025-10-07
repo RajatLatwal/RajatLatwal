@@ -91,5 +91,5 @@
 
 ### 🌟 Exploring the World of Data & AI
 <p align="center">
-  https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN2YzViajhzcWs2MGhob3NtcGNta3g4N2pmc200cmxpb3Ztc2hpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif
+  <img src="https://i.giphy.com/media/xT2GwpdKjB5G01d_iM/giphy.gif" alt="data dashboard and analytics" width="400"/>
 </p>
